@@ -6,7 +6,7 @@ Hey there! 👋 This is a simple dice-rolling game I built using **React**. The 
 
 ## 🚀 Live Demo
 
-👉 [Try the game here](https://your-deployment-link.com)
+👉 [Try the game here](https://dice-game-black-three.vercel.app/)
 
 ---
 
@@ -33,8 +33,8 @@ Hey there! 👋 This is a simple dice-rolling game I built using **React**. The 
 
 ## 📸 Screenshot
 
-![Light Theme](public/light-theme.png)
-![Dark Theme](public/image.png)
+![Light Theme](light-theme.png)
+![Dark Theme](dark-theme.png)
 
 ## 🧪 How to Run It Locally
 
