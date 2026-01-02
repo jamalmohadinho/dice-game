@@ -26,6 +26,7 @@ Hey there! 👋 This is a simple dice-rolling game I built using **React**. The 
 - **React** — Functional components + hooks
 - **Vite** — Super fast dev server
 - **CSS** — For theming and layout
+- **Vercel** — For deployment (free & easy)
 - **VS Code** — My code editor of choice
 - **Git & GitHub** — Version control + commits for each feature
 
